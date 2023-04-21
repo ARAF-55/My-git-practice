@@ -3,8 +3,3 @@ orange
 yellow
 green
 blue purple
-next-color
-araf
-mahfuj
-fasga
-gasg
